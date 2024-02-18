@@ -6,6 +6,8 @@ This is an example of a movie website.
 
 Used HTML5, CSS3 & JavaScript
 
+Full Responsive
+
 <h2> Screen </h2>
  
  ![](ekran.gif)
